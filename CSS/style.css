@@ -2,6 +2,7 @@ body {
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
+  font: 20px;
 }
 
 div {
@@ -9,15 +10,22 @@ div {
 }
 
 h1 {
-  margin-top: 0;
+  font-size: 90px;
+  margin-top: 30px auto 0 auto;
   font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  line-height: 2;
 }
 
 h2 {
   font-family: 'Montserrat', sans-serif;
+  font-size: 35px;
+  color: #66BFBF;
+  font-weight: normal;
 }
 
 h3 {
+  color: #11999E;
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -50,3 +58,4 @@ h3 {
   left: 300px;
   bottom: 300px;
 }
+
