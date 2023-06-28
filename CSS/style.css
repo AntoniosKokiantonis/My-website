@@ -455,7 +455,8 @@ img {
 /* Clients
 ---------------------------------*/
 .client-part {
-	background: url("../images/section-bg1.jpg") center center no-repeat;
+/* 	background: url("../images/section-bg1.jpg") center center no-repeat; */
+	background: url("../images/pw_maze_black_2X.png") left top repeat;
 	background-size: cover;
 	padding: 55px 0;
 	text-align: center;
