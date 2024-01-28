@@ -148,6 +148,7 @@ p {
 	font-size: 14px;
 	color: #bcbcbc;
 	text-transform: capitalize;
+	text-shadow: 2px 2px 8px #FF0000;
 	font-weight: 400;
 	margin: 0 5px 0 0;
 	padding: 0 0 0 15px;
