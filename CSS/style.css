@@ -113,7 +113,7 @@ p {
 /* Header Styles
 ---------------------------------*/
 
-.header {
+.header copilot_body {
 	text-align: center;
 	background: url("../images/pw_maze_black_2X.png") left top repeat;
 	padding: 280px 0;
