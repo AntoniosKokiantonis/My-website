@@ -87,7 +87,8 @@
 	.isotope{ width:400px; margin:0px auto;}
 	.Portfolio-box{}
 	.portfolioContainer{ width:350px; margin:0px auto !important; } */
-	
+	iframe{ width: 100%; height: 100%;}
+   
 	
 }
 
