@@ -79,7 +79,7 @@ body {
 
 #rate{
 	font-size: 15px; 
-	color:dark-green;
+	color:#094B16;
      }
 
 h2 {
@@ -840,7 +840,7 @@ img {
 .input-btn {
 	width: 175px;
 	height: 50px;
-	background: dark-green;
+	background: #094B16;
 	border-radius: 4px;
 	color: #ffffff;
 	font-size: 14px;
