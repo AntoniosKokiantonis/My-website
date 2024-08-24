@@ -57,7 +57,6 @@ a:active {
 	outline: 0px !important
 }
 
-#rate{font-size: 15px; color:green;
 
 @font-face {
 	font-family: 'FontAwesome';
@@ -77,6 +76,11 @@ body {
 	color: #888888;
 	margin: 0;
 }
+
+#rate{
+	font-size: 15px; 
+	color:green;
+     }
 
 h2 {
 	font-size: 34px;
