@@ -57,6 +57,8 @@ a:active {
 	outline: 0px !important
 }
 
+#rate{font-size: 15px; color:green;
+
 @font-face {
 	font-family: 'FontAwesome';
 	src: url('../fonts/fontawesome-webfont.eot?v=4.1.0');
